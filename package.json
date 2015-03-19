@@ -1,23 +1,23 @@
 {
-  "name": "audiobookfeed.js",
+  "name": "audiobooks.js",
   "version": "1.0.0",
   "description": "Generated an rss feed of your audio books so that you can use the podcast player on your phone to listen to them",
-  "main": "audiobookfeed.js",
+  "main": "feed.js",
   "scripts": {
-    "start": "node audiobookfeed.js"
+    "start": "node feed.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/andwin/audiobooks.js.git"
+    "url": "https://github.com/jiyee/audiobooks.js.git"
   },
   "keywords": [
     "audiobooks",
     "rss"
   ],
-  "author": "Anders",
+  "author": "Jiyee Sheng",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andwin/audiobooks.js/issues"
+    "url": "https://github.com/jiyee/audiobooks.js/issues"
   },
   "homepage": "https://github.com/andwin/audiobooks.js",
   "dependencies": {
